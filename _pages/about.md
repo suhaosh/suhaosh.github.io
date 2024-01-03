@@ -53,13 +53,13 @@ Conference on Computer Vision and Pattern Recognition (CVPR), 2021. (CCF-A)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT</div><img src='images/TCSVT_mang2vec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
-- `Hao Su`, Xuefeng Liu, Jianwei Niu*, Ji Wan, Xinghao Wu, Nana Wang. MARVEL: Raster Manga Vectorization via Primitive-wise Deep Reinforcement Learning. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023. (CCF-B, SCI District 1, JCR Q1, SCI)
+- `Hao Su`, Xuefeng Liu, Jianwei Niu*, Ji Wan, Xinghao Wu, Nana Wang. **MARVEL: Raster Manga Vectorization via Primitive-wise Deep Reinforcement Learning**. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023. (CCF-B, SCI District 1, JCR Q1, SCI)
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/3Deformer.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
-- ``Hao Su`, Jianwei Niu, Xuefeng Liu*, Ji Wan, Nana Wang. 3Deformer: A Common Framework for Image-Guided Face Editing. Arxiv, 2023.
+- `Hao Su`, Jianwei Niu, Xuefeng Liu*, Ji Wan, Nana Wang. 3Deformer: A Common Framework for Image-Guided Face Editing. Arxiv, 2023.
 </div>
 </div>
 
