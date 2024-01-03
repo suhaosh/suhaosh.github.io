@@ -25,38 +25,11 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Zhengzhou"
   location         : "Zhengzhou, Henan"
-  employer         : #"Hefei General Machinery Research Institute"
-  pubmed           : 
+  employer         : #"Zhengzhou University"
   googlescholar    : "https://scholar.google.com/citations?user=yf4XwjEAAAAJ"
   email            : "bhsuhao@buaa.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/ "
-  uri              : 
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "suhaosh"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-9658-209X"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  github           : "SwordHolderSH"
+
 
 
 # Reading Files
