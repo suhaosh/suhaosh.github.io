@@ -25,7 +25,7 @@ His research interests are 2D/3D digital human generation, AIGC, and reinforceme
 # 📝 Publications
 
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/CVPR2021_artcoder.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 -	`Hao Su`, Jianwei Niu, Xuefeng Liu, Qingfeng Li, Ji Wan, Mingliang Xu. ArtCoder: An End-to-End Method for Generating Scanning-Robust Stylized QR Codes. IEEE
