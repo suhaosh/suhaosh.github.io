@@ -22,7 +22,7 @@ His research interests are 2D/3D digital human generation, AIGC, and reinforceme
 
  <a href='https://scholar.google.com/citations?user=yf4XwjEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
-# 📝 Publications (First Author)
+# 📝 Publications (first author)
 
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR</div><img src='images/CVPR2021_artcoder.jpg' alt="sym" width="100%"></div></div>
