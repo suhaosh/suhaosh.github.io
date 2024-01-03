@@ -36,6 +36,28 @@ Conference on Computer Vision and Pattern Recognition (CVPR), 2021. (CCF-A)
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+-	`Hao Su`, Jianwei Niu, Xuefeng Liu, Qingfeng Li, Ji Wan, Mingliang Xu. ArtCoder: An End-to-End Method for Generating Scanning-Robust Stylized QR Codes. IEEE
+Conference on Computer Vision and Pattern Recognition (CVPR), 2021. (CCF-A)
+[[网页]]( ) [[预览]]() [[下载]]()
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+-	`Hao Su`, Jianwei Niu, Xuefeng Liu, Qingfeng Li, Ji Wan, Mingliang Xu. ArtCoder: An End-to-End Method for Generating Scanning-Robust Stylized QR Codes. IEEE
+Conference on Computer Vision and Pattern Recognition (CVPR), 2021. (CCF-A)
+[[网页]]( ) [[预览]]() [[下载]]()
+
+</div>
+</div>
+
+
+
 
 
 
