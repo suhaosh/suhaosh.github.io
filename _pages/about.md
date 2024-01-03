@@ -27,7 +27,7 @@ His research interests are 2D/3D digital human generation, AIGC, and reinforceme
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR</div><img src='images/CVPR2021_artcoder.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
--	`Hao Su`, Jianwei Niu*, Xuefeng Liu, Qingfeng Li, Ji Wan, Mingliang Xu.  ***<font color=darkblue>ArtCoder: An End-to-End Method for Generating Scanning-Robust Stylized QR Codes</font>***. IEEE
+-	`Hao Su`, Jianwei Niu\*, Xuefeng Liu, Qingfeng Li, Ji Wan, Mingliang Xu.  ***<font color=darkblue>ArtCoder: An End-to-End Method for Generating Scanning-Robust Stylized QR Codes</font>***. IEEE
 Conference on Computer Vision and Pattern Recognition (CVPR), 2021. (CCF-A)
 </div>
 </div>
@@ -35,20 +35,20 @@ Conference on Computer Vision and Pattern Recognition (CVPR), 2021. (CCF-A)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI</div><img src='images/AAAI2021_mangaGAN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
--	`Hao Su`, Jianwei Niu*, Xuefeng Liu, Qingfeng Li, Jiahe Cui, Ji Wan.  ***<font color=darkblue>MangaGAN: Unpaired Photo-to-Manga Translation Based on The Methodology of Manga Drawing</font>***. AAAI Conference on Artificial Intelligence (AAAI), 2021. (CCF-A)
+-	`Hao Su`, Jianwei Niu\*, Xuefeng Liu, Qingfeng Li, Jiahe Cui, Ji Wan.  ***<font color=darkblue>MangaGAN: Unpaired Photo-to-Manga Translation Based on The Methodology of Manga Drawing</font>***. AAAI Conference on Artificial Intelligence (AAAI), 2021. (CCF-A)
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM</div><img src='images/ACMMM_Qart.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
--	`Hao Su`, Jianwei Niu, Xuefeng Liu*, Qingfeng Li, Ji Wan, Mingliang Xu.  ***<font color=darkblue>Q-Art Code: Generating Scanning-robust Artstyle QR Codes by Deformable Convolution</font>***. ACM International Conference on Multimedia (ACM MM), 2021
+-	`Hao Su`, Jianwei Niu, Xuefeng Liu\*, Qingfeng Li, Ji Wan, Mingliang Xu.  ***<font color=darkblue>Q-Art Code: Generating Scanning-robust Artstyle QR Codes by Deformable Convolution</font>***. ACM International Conference on Multimedia (ACM MM), 2021
 </div>
 </div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT</div><img src='images/TCSVT_mang2vec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
-- `Hao Su`, Xuefeng Liu, Jianwei Niu*, Ji Wan, Xinghao Wu, Nana Wang.  ***<font color=darkblue>MARVEL: Raster Manga Vectorization via Primitive-wise Deep Reinforcement Learning</font>***. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023. (CCF-B, SCI District 1, JCR Q1)
+- `Hao Su`, Xuefeng Liu, Jianwei Niu\*, Ji Wan, Xinghao Wu, Nana Wang.  ***<font color=darkblue>MARVEL: Raster Manga Vectorization via Primitive-wise Deep Reinforcement Learning</font>***. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023. (CCF-B, SCI District 1, JCR Q1)
 </div>
 </div>
 
