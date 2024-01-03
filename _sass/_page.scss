@@ -345,9 +345,9 @@
 }
 
 .comment__avatar {
-  width: 50px;
+  width: 100px;
   height: 100px;
-  // border-radius: 50%;
+  //my set
 
   @include breakpoint($large) {
     width: 80px;
