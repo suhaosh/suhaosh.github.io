@@ -47,7 +47,7 @@ Conference on Computer Vision and Pattern Recognition (CVPR), 2021. (CCF-A)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT</div><img src='images/TCSVT_mang2vec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
-- Hao Su, Xuefeng Liu, Jianwei Niu, Ji Wan, Xinghao Wu, Nana Wang. MARVEL: Raster Manga Vectorization via Primitive-wise Deep Reinforcement Learning [J]. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023. (CCF-B, 中科院一区, Q1, SCI)
+- `Hao Su`, Xuefeng Liu, Jianwei Niu, Ji Wan, Xinghao Wu, Nana Wang. MARVEL: Raster Manga Vectorization via Primitive-wise Deep Reinforcement Learning. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2023. (CCF-B, SCI District 1, JCR Q1, SCI)
 </div>
 </div>
 
