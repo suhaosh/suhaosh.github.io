@@ -59,7 +59,7 @@ Conference on Computer Vision and Pattern Recognition (CVPR), 2021. (CCF-A)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/3Deformer.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
-- `Hao Su`, Jianwei Niu, Xuefeng Liu*, Ji Wan, Nana Wang. <font color=blue>3Deformer: A Common Framework for Image-Guided Face Editing</font>. Arxiv, 2023.
+- `Hao Su`, Jianwei Niu, Xuefeng Liu\*, Ji Wan, Nana Wang. <font color=blue>3Deformer: A Common Framework for Image-Guided Face Editing</font>. Arxiv, 2023.
 </div>
 </div>
 
