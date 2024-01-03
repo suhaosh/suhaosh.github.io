@@ -41,7 +41,7 @@ Conference on Computer Vision and Pattern Recognition (CVPR), 2021. (CCF-A)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM</div><img src='images/ACMMM_Qart.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
--	`Hao Su`, Jianwei Niu, Xuefeng Liu\*, Qingfeng Li, Ji Wan, Mingliang Xu.  ***<font color=darkblue>Q-Art Code: Generating Scanning-robust Artstyle QR Codes by Deformable Convolution</font>***. ACM International Conference on Multimedia (ACM MM), 2021
+-	`Hao Su`, Jianwei Niu, Xuefeng Liu\*, Qingfeng Li, Ji Wan, Mingliang Xu.  ***<font color=darkblue>Q-Art Code: Generating Scanning-robust Artstyle QR Codes by Deformable Convolution</font>***. ACM International Conference on Multimedia (ACM MM), 2021. (CCF-A)
 </div>
 </div>
 
