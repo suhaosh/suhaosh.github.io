@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hao Su received the Ph.D. degree from the State Key Laboratory of Virtual Reality Technology and Systems, Beihang University, China, in 2023. He is currently an associate research fellow at the School of Computer and Artificial Intelligence, Zhengzhou University, Zhengzhou, China.
+Hao Su received the Ph.D. degree from the State Key Laboratory of Virtual Reality Technology and Systems, Beihang University, China, in 2024. He is currently an associate research fellow at the School of Computer and Artificial Intelligence, Zhengzhou University, Zhengzhou, China.
 His research interests are 2D/3D digital human generation, AIGC, and reinforcement learning.
 
  <a href='https://scholar.google.com/citations?user=yf4XwjEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
