@@ -60,7 +60,13 @@ Conference on Computer Vision and Pattern Recognition (CVPR), 2021. (CCF-A)
 </div>
 
 📝 Others:
+<div class='paper-box-text' markdown="1"> 
 - Mingliang Xu, `Hao Su`, Yafei Li\*, Xi Li, Jing Liao, Jianwei Niu, Pei Lv, Bing Zhou. ***<font color=darkblue>Stylized aesthetic QR code</font>***. IEEE Transactions on Multimedia (TMM), 2018. (CCF-B, CAS SCI District 1, JCR Q1)
+</div>
+
+<div class='paper-box-text' markdown="1"> 
+- Mingliang Xu, Qingfeng Li, Jianwei Niu, `Hao Su`, Xiting Liu, Weiwei Xu, Pei Lv, Bing Zhou, Yi Yang. ***<font color=darkblue>ART-UP: A novel method for generating scanning-robust aesthetic QR codes</font>***. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2018. (CCF-B, CAS SCI District 1, JCR Q1)
+</div>
 
 
 
