@@ -59,6 +59,10 @@ Conference on Computer Vision and Pattern Recognition (CVPR), 2021. (CCF-A)
 </div>
 </div>
 
+📝 Others:
+- Mingliang Xu, `Hao Su`, Yafei Li\*, Xi Li, Jing Liao, Jianwei Niu, Pei Lv, Bing Zhou. ***<font color=darkblue>Stylized aesthetic QR code</font>***. IEEE Transactions on Multimedia (TMM), 2018. (CCF-B, CAS SCI District 1, JCR Q1)
+
+
 
 
 
