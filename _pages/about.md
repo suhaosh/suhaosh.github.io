@@ -71,11 +71,11 @@ Conference on Computer Vision and Pattern Recognition (CVPR), 2021. (CCF-A)
 </div>
 
 <div class='paper-box-text' markdown="1"> 
-- Ji Wan, Kai Hu\*, Jie Li, `Hao Su`. ***<font color=darkblue>AnonymousFox: An efficient and scalable blockchain consensus algorithm (IOT), 2022. (CCF-C, CAS SCI District 1, JCR Q1)
+- Ji Wan, Kai Hu\*, Jie Li, `Hao Su`. ***<font color=darkblue>AnonymousFox: An efficient and scalable blockchain consensus algorithm </font>*** IEEE Internet of Things Journal (IOT), 2022. (CCF-C, CAS SCI District 1, JCR Q1)
 </div>
 
 <div class='paper-box-text' markdown="1"> 
-- Ji Wan, Kai Hu\*, Jie Li, `Hao Su`, Qingshun Wu, Mingyuan Li, Libo Feng, Yan Pan. ***<font color=darkblue>Smart Contract Service Optimization in Blockchain-Cloud Collaborative Computing. IEEE International Conference on Mobile Data Management (MDM), 2023. (CCF-C)
+- Ji Wan, Kai Hu\*, Jie Li, `Hao Su`, Qingshun Wu, Mingyuan Li, Libo Feng, Yan Pan. ***<font color=darkblue>Smart Contract Service Optimization in Blockchain-Cloud Collaborative Computing</font>***. IEEE International Conference on Mobile Data Management (MDM), 2023. (CCF-C)
 </div>
 
 
