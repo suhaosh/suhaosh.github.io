@@ -3,8 +3,8 @@ main:
   - title: "About Me"
     url: " "
 
-  - title: "News"
-    url: "  "
+  - title: "中文简介"
+    url: ""/_pages/about_chinese.md""
 
   - title: "Publications"
     url: " "
