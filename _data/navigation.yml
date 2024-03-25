@@ -1,10 +1,10 @@
 # main links links
 main:
-  - title: "About Me"
-    url: " "
-
   - title: "中文简介"
-    url: ""/_pages/about_chinese.md""
+    url: "/_pages/about_chinese.md "
+
+  - title: "News"
+    url: " "
 
   - title: "Publications"
     url: " "
