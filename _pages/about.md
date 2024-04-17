@@ -40,6 +40,12 @@ Conference on Computer Vision and Pattern Recognition (CVPR), 2021. (CCF-A)
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJICAI</div><img src='images/BeyondVision.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> 
+-	Nana Wang, Jianwei Niu, Xuefeng Liu, `Hao Su\*`, Xinghao Wu et al.  ***<font color=darkblue>BeyondVision: An EMG-driven Micro Hand Gesture Recognition Based on Dynamic Segmentation</font>***. International Joint Conferences on Artificial Intelligence (IJICAI), 2024. (CCF-A)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM</div><img src='images/ACMMM_Qart.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 -	`Hao Su`, Jianwei Niu, Xuefeng Liu\*, Qingfeng Li, Ji Wan, Mingliang Xu.  ***<font color=darkblue>Q-Art Code: Generating Scanning-robust Artstyle QR Codes by Deformable Convolution</font>***. ACM International Conference on Multimedia (ACM MM), 2021. (CCF-A)
