@@ -65,6 +65,10 @@ Conference on Computer Vision and Pattern Recognition (CVPR), 2021. (CCF-A)
 </div>
 </div>
 
+<div class='paper-box-text' markdown="1"> 
+- `Hao Su`, Jianwei Niu\*, Xuefeng Liu, Mohammed Atiquzzaman. ***<font color=darkblue>SafeCoder: A machine-learning-based encoding system to embed safety identification information into QR codes</font>***. Journal of Network and Computer Applications (JNCA), 2024. (CCF-C, CAS SCI District 2, JCR Q1)
+</div>
+
 
 📝 Others:
 
