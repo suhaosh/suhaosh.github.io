@@ -42,7 +42,7 @@ Conference on Computer Vision and Pattern Recognition (CVPR), 2021. (CCF-A)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI</div><img src='images/BeyondVision.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
--	Nana Wang, Jianwei Niu, Xuefeng Liu, `Hao Su*`, Xinghao Wu, et al.  ***<font color=darkblue>BeyondVision: An EMG-driven Micro Hand Gesture Recognition Based on Dynamic Segmentation</font>***. International Joint Conferences on Artificial Intelligence (IJCAI), 2024. (CCF-A)
+-	Nana Wang, Jianwei Niu, Xuefeng Liu, Dongqin Yu, Guogang Zhu, Xinghao Wu, Mingliang Xu, `Hao Su*`.  ***<font color=darkblue>BeyondVision: An EMG-driven Micro Hand Gesture Recognition Based on Dynamic Segmentation</font>***. International Joint Conferences on Artificial Intelligence (IJCAI), 2024. (CCF-A)
 </div>
 </div>
 
