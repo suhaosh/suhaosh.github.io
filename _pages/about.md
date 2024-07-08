@@ -70,7 +70,7 @@ Conference on Computer Vision and Pattern Recognition (CVPR), 2021. (CCF-A)
 </div>
 
 <div class='paper-box-text' markdown="1"> 
-- Haozhe Guo, Mengjie Chen, Kaijiang Li, `Hao Su*`, Pei Lv. ***<font color=darkblue>International Conference on Intelligent Computing</font>***. Journal of Network and Computer Applications (ICIC), 2024. (CCF-C)
+- Haozhe Guo, Mengjie Chen, Kaijiang Li, `Hao Su*`, Pei Lv. ***<font color=darkblue>GLAD: A Global-Attention-based Diffusion Model for Infrared and Visible Image Fusion</font>***. International Conference on Intelligent Computing (ICIC), 2024. (CCF-C)
 </div>
 
 
