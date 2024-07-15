@@ -76,6 +76,10 @@ Conference on Computer Vision and Pattern Recognition (CVPR), 2021. (CCF-A)
 
 
 📝 Others:
+<div class='paper-box-text' markdown="1"> 
+- Guogang Zhu, Xuefeng Liu, Xinghao Wu, Shaojie Tang, Chao Tang, Jianwei Niu, `Hao Su`. ***<font color=darkblue>Estimating before Debiasing: A Bayesian Approach to Detaching Prior Bias in Federated Semi-Supervised Learning</font>***. International Joint Conferences on Artificial Intelligence (IJCAI), 2024. (CCF-A)
+</div>
+ 
 
 <div class='paper-box-text' markdown="1"> 
 - Mingliang Xu, `Hao Su`, Yafei Li\*, Xi Li, Jing Liao, Jianwei Niu, Pei Lv, Bing Zhou. ***<font color=darkblue>Stylized aesthetic QR code</font>***. IEEE Transactions on Multimedia (TMM), 2018. (CCF-B, CAS SCI District 1, JCR Q1)
