@@ -24,7 +24,8 @@ His research interests are 2D/3D digital human generation, AIGC, and reinforceme
 
 # 📝 Publications  
 
-## 🥇🏅 First or Corresponding Author:
+```diff
++ 🥇🏅 First or Corresponding Author:
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR</div><img src='images/CVPR2021_artcoder.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
