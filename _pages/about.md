@@ -24,7 +24,7 @@ His research interests are 2D/3D digital human generation, AIGC, and reinforceme
 
 # 📝 Publications  
 
-## 📝 First or Corresponding Author:
+## 🥇🏅 First or Corresponding Author:
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR</div><img src='images/CVPR2021_artcoder.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -75,7 +75,7 @@ Conference on Computer Vision and Pattern Recognition (CVPR), 2021. (CCF-A)
 
 
 
-# 📝 Others:
+## 🥉 Others:
 <div class='paper-box-text' markdown="1"> 
 - Guogang Zhu, Xuefeng Liu, Xinghao Wu, Shaojie Tang, Chao Tang, Jianwei Niu, `Hao Su`. ***<font color=darkblue>Estimating before Debiasing: A Bayesian Approach to Detaching Prior Bias in Federated Semi-Supervised Learning</font>***. International Joint Conferences on Artificial Intelligence (IJCAI), 2024. (CCF-A)
 </div>
