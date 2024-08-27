@@ -11,7 +11,6 @@ redirect_from:
 <style>
 body {
   counter-reset: custom-counter; /* 第一个计数器，从 1 开始 */
-  counter-reset: second-counter; /* 第二个计数器，也从 1 开始 */
 }
 
 /* 定义第一个编号，从1开始 */
@@ -22,13 +21,6 @@ body {
   margin-right: 5px; /* 可选：增加编号与文本之间的间距 */
 }
 
-/* 定义第二个编号，也从1开始 */
-.second-counter::before {
-  counter-increment: second-counter;
-  content: "[" counter(second-counter) "] ";
-  font-weight: bold; /* 可选：加粗编号 */
-  margin-right: 5px; /* 可选：增加编号与文本之间的间距 */
-}
 </style>
 
 
@@ -102,24 +94,24 @@ Conference on Computer Vision and Pattern Recognition (CVPR), 2021. (CCF-A)
 
 ## 🥉 Others
 <div class='paper-box-text' markdown="1"> 
-<span class="second-counter"></span> Guogang Zhu, Xuefeng Liu, Xinghao Wu, Shaojie Tang, Chao Tang, Jianwei Niu, `Hao Su`. ***<font color=darkblue>Estimating before Debiasing: A Bayesian Approach to Detaching Prior Bias in Federated Semi-Supervised Learning</font>***. International Joint Conferences on Artificial Intelligence (IJCAI), 2024. (CCF-A)
+<span class="custom-counter"></span> Guogang Zhu, Xuefeng Liu, Xinghao Wu, Shaojie Tang, Chao Tang, Jianwei Niu, `Hao Su`. ***<font color=darkblue>Estimating before Debiasing: A Bayesian Approach to Detaching Prior Bias in Federated Semi-Supervised Learning</font>***. International Joint Conferences on Artificial Intelligence (IJCAI), 2024. (CCF-A)
 </div>
  
 
 <div class='paper-box-text' markdown="1"> 
-<span class="second-counter"></span> Mingliang Xu, `Hao Su`, Yafei Li\*, Xi Li, Jing Liao, Jianwei Niu, Pei Lv, Bing Zhou. ***<font color=darkblue>Stylized aesthetic QR code</font>***. IEEE Transactions on Multimedia (TMM), 2018. (CCF-B, CAS SCI District 1, JCR Q1)
+<span class="custom-counter"></span> Mingliang Xu, `Hao Su`, Yafei Li\*, Xi Li, Jing Liao, Jianwei Niu, Pei Lv, Bing Zhou. ***<font color=darkblue>Stylized aesthetic QR code</font>***. IEEE Transactions on Multimedia (TMM), 2018. (CCF-B, CAS SCI District 1, JCR Q1)
 </div>
 
 <div class='paper-box-text' markdown="1"> 
-<span class="second-counter"></span> Mingliang Xu, Qingfeng Li, Jianwei Niu\*, `Hao Su`, Xiting Liu, Weiwei Xu, Pei Lv, Bing Zhou, Yi Yang. ***<font color=darkblue>ART-UP: A novel method for generating scanning-robust aesthetic QR codes</font>***. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2021. (CCF-B, JCR Q1)
+<span class="custom-counter"></span> Mingliang Xu, Qingfeng Li, Jianwei Niu\*, `Hao Su`, Xiting Liu, Weiwei Xu, Pei Lv, Bing Zhou, Yi Yang. ***<font color=darkblue>ART-UP: A novel method for generating scanning-robust aesthetic QR codes</font>***. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2021. (CCF-B, JCR Q1)
 </div>
 
 <div class='paper-box-text' markdown="1"> 
-<span class="second-counter"></span> Ji Wan, Kai Hu\*, Jie Li, `Hao Su`. ***<font color=darkblue>AnonymousFox: An efficient and scalable blockchain consensus algorithm </font>*** IEEE Internet of Things Journal (IOT), 2022. (CCF-C, CAS SCI District 1, JCR Q1)
+<span class="custom-counter"></span> Ji Wan, Kai Hu\*, Jie Li, `Hao Su`. ***<font color=darkblue>AnonymousFox: An efficient and scalable blockchain consensus algorithm </font>*** IEEE Internet of Things Journal (IOT), 2022. (CCF-C, CAS SCI District 1, JCR Q1)
 </div>
 
 <div class='paper-box-text' markdown="1"> 
-<span class="second-counter"></span> Ji Wan, Kai Hu\*, Jie Li, `Hao Su`, Qingshun Wu, Mingyuan Li, Libo Feng, Yan Pan. ***<font color=darkblue>Smart Contract Service Optimization in Blockchain-Cloud Collaborative Computing</font>***. IEEE International Conference on Mobile Data Management (MDM), 2023. (CCF-C)
+<span class="custom-counter"></span> Ji Wan, Kai Hu\*, Jie Li, `Hao Su`, Qingshun Wu, Mingyuan Li, Libo Feng, Yan Pan. ***<font color=darkblue>Smart Contract Service Optimization in Blockchain-Cloud Collaborative Computing</font>***. IEEE International Conference on Mobile Data Management (MDM), 2023. (CCF-C)
 </div>
 
 
