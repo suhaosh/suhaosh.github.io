@@ -44,7 +44,7 @@ Hao Su received the Ph.D. degree from the State Key Laboratory of Virtual Realit
 <div class='paper-box-text' markdown="1">
   <table>
     <tr>
-      <td><p class="numbered"></p></td>	
+      <td valign="top"><p class="numbered"></p></td>	
       <td>`Hao Su`, Jianwei Niu\*, Xuefeng Liu, Qingfeng Li, Ji Wan, Mingliang Xu.  ***<font color=darkblue>ArtCoder: An End-to-End Method for Generating Scanning-Robust Stylized QR Codes</font>***. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021. (CCF-A) </td>
     </tr>
   </table>
