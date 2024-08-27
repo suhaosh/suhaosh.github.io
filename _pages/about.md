@@ -8,6 +8,20 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+/* 初始化计数器 */
+ul {
+  counter-reset: list-counter;
+}
+
+/* 给每个li元素添加编号 */
+ul li::before {
+  counter-increment: list-counter;
+  content: counter(list-counter) ". "; /* 编号后面跟上点号和空格 */
+}
+</style>
+
+
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
