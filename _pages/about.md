@@ -17,7 +17,6 @@ body {
 .custom-counter::before {
   counter-increment: custom-counter;
   content: "[" counter(custom-counter) "] ";
-  font-weight: bold; /* 可选：加粗编号 */
   margin-right: 5px; /* 可选：增加编号与文本之间的间距 */
 }
 
