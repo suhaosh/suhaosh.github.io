@@ -14,10 +14,10 @@ ul {
   counter-reset: list-counter;
 }
 
-/* 给每个li元素添加编号 */
+/* 给每个 li 元素添加编号，并调整样式为 [1], [2], [3] */
 ul li::before {
   counter-increment: list-counter;
-  content: counter(list-counter) ". "; /* 编号后面跟上点号和空格 */
+  content: "[" counter(list-counter) "] "; /* 修改为方括号样式 */
 }
 </style>
 
