@@ -51,7 +51,7 @@ Conference on Computer Vision and Pattern Recognition (CVPR), 2021. (CCF-A)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI</div><img src='images/AAAI2021_mangaGAN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-<span class="custom-counter"></span>	`Hao Su`, Jianwei Niu\*, Xuefeng Liu, Qingfeng Li, Jiahe Cui, Ji Wan.  ***<font color=darkblue>MangaGAN: Unpaired Photo-to-Manga Translation Based on The Methodology of Manga Drawing</font>***. AAAI Conference on Artificial Intelligence (AAAI), 2021. (CCF-A)
+<span class="custom-counter"></span>	`Hao Su`, Jianwei Niu\*, Xuefeng Liu, Qingfeng Li, Jiahe Cui, Ji Wan. ***<font color=darkblue>MangaGAN: Unpaired Photo-to-Manga Translation Based on The Methodology of Manga Drawing</font>***. AAAI Conference on Artificial Intelligence (AAAI), 2021. (CCF-A)
 </div>
 </div>
 
