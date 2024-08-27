@@ -51,6 +51,8 @@ Hao Su received the Ph.D. degree from the State Key Laboratory of Virtual Realit
 </div>
 </div>
 
+<p><span class="custom-counter"></span>这是第一个段落，它会显示为[1]。</p>
+
 <p class="numbered"></p>`Hao Su`, Jianwei Niu\*, Xuefeng Liu, Qingfeng Li, Ji Wan, Mingliang Xu.  ***<font color=darkblue>ArtCoder: An End-to-End Method for Generating Scanning-Robust Stylized QR Codes</font>***. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021. (CCF-A)
 
 <p><span class="custom-counter"></span>`Hao Su`, Jianwei Niu\*, Xuefeng Liu, Qingfeng Li, Jiahe Cui, Ji Wan.  ***<font color=darkblue>MangaGAN: Unpaired Photo-to-Manga Translation Based on The Methodology of Manga Drawing</font>***. AAAI Conference on Artificial Intelligence (AAAI), 2021. (CCF-A)</p>
