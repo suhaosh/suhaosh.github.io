@@ -9,16 +9,16 @@ redirect_from:
 ---
 
 <style>
-/* 初始化计数器 */
 body {
-  counter-reset: custom-counter;
-  counter-reset: second-counter;
+  counter-reset: custom-counter; /* 第一个计数器，从 1 开始 */
+  counter-reset: second-counter; /* 第二个计数器，也从 1 开始 */
 }
 
-/* 定义一个类，为每个标记添加编号并设置格式为 [1], [2], [3] */
+/* 定义第一个编号，从1开始 */
 .custom-counter::before {
   counter-increment: custom-counter;
   content: "[" counter(custom-counter) "] ";
+  font-weight: bold; /* 可选：加粗编号 */
   margin-right: 5px; /* 可选：增加编号与文本之间的间距 */
 }
 
