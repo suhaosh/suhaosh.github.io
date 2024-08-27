@@ -11,14 +11,15 @@ redirect_from:
 <style>
 /* 初始化计数器 */
 body {
-  counter-reset: paragraph-counter;
+  counter-reset: custom-counter;
 }
 
-/* 给每个段落添加编号 */
-p.numbered::before {
-  counter-increment: paragraph-counter;
-  content: "[" counter(paragraph-counter) "] ";
+/* 定义一个类，为每个标记添加编号并设置格式为 [1], [2], [3] */
+.custom-counter::before {
+  counter-increment: custom-counter;
+  content: "[" counter(custom-counter) "] ";
   font-weight: bold; /* 可选：加粗编号 */
+  margin-right: 5px; /* 可选：增加编号与文本之间的间距 */
 }
 </style>
 
@@ -52,7 +53,7 @@ Hao Su received the Ph.D. degree from the State Key Laboratory of Virtual Realit
 
 <p class="numbered"></p>`Hao Su`, Jianwei Niu\*, Xuefeng Liu, Qingfeng Li, Ji Wan, Mingliang Xu.  ***<font color=darkblue>ArtCoder: An End-to-End Method for Generating Scanning-Robust Stylized QR Codes</font>***. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2021. (CCF-A)
 
-<p class="numbered">`Hao Su`, Jianwei Niu\*, Xuefeng Liu, Qingfeng Li, Jiahe Cui, Ji Wan.  ***<font color=darkblue>MangaGAN: Unpaired Photo-to-Manga Translation Based on The Methodology of Manga Drawing</font>***. AAAI Conference on Artificial Intelligence (AAAI), 2021. (CCF-A)</p>
+<p><span class="custom-counter"></span>`Hao Su`, Jianwei Niu\*, Xuefeng Liu, Qingfeng Li, Jiahe Cui, Ji Wan.  ***<font color=darkblue>MangaGAN: Unpaired Photo-to-Manga Translation Based on The Methodology of Manga Drawing</font>***. AAAI Conference on Artificial Intelligence (AAAI), 2021. (CCF-A)</p>
 
 <p class="numbered">Nana Wang, Jianwei Niu, Xuefeng Liu, Dongqin Yu, Guogang Zhu, Xinghao Wu, Mingliang Xu, `Hao Su*`.  ***<font color=darkblue>BeyondVision: An EMG-driven Micro Hand Gesture Recognition Based on Dynamic Segmentation</font>***. International Joint Conferences on Artificial Intelligence (IJCAI), 2024. (CCF-A)</p>
 
