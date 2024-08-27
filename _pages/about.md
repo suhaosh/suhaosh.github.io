@@ -48,7 +48,7 @@ Hao Su received the Ph.D. degree from the State Key Laboratory of Virtual Realit
 
 #  Publications  
 
-## 🥇First Author +🏅Corresponding Author
+## First Author + Corresponding Author
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR</div><img src='images/CVPR2021_artcoder.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
