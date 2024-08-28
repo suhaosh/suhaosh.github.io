@@ -37,7 +37,7 @@ Hao Su received the Ph.D. degree from the State Key Laboratory of Virtual Realit
 
 <a href='https://scholar.google.com/citations?user=yf4XwjEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-#  Publications  
+# 📚 Publications  
 
 ## First Author + Corresponding Author
 
