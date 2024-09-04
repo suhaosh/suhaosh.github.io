@@ -113,4 +113,8 @@ Conference on Computer Vision and Pattern Recognition (CVPR), 2021. (CCF-A)
 <span class="custom-counter"></span> Ji Wan, Kai Hu\*, Jie Li, `Hao Su`, Qingshun Wu, Mingyuan Li, Libo Feng, Yan Pan. ***<font color=darkblue>Smart Contract Service Optimization in Blockchain-Cloud Collaborative Computing</font>***. IEEE International Conference on Mobile Data Management (MDM), 2023. (CCF-C)
 </div>
 
+<div class='paper-box-text' markdown="1"> 
+<span class="custom-counter"></span> Ji Wan, Kai Hu\*, Jie Li, Yichen Guo, `Hao Su`, Shenzhang Li, Yafei Ye. ***<font color=darkblue>Zebra: A cluster-aware blockchain consensus algorithm</font>***. Journal of Network and Computer Applications (JNCA), 2024. (CCF-C)
+</div>
+
 
