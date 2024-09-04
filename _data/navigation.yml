@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "About Me"
-    url: " "
+    url: "https://suhaosh.github.io/cn/"
 
   - title: "News"
     url: " "
@@ -9,11 +9,11 @@ main:
   - title: "Publications"
     url: " "
 
-  - title: "Honors and Awards"
-    url: " "
+  # - title: "Honors and Awards"
+  #   url: " "
 
-  - title: "Educations"
-    url: " "
+  # - title: "Educations"
+  #   url: " "
 
-  - title: "Internships"
-    url: " "
+  # - title: "Internships"
+  #   url: " "
