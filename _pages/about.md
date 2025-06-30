@@ -40,6 +40,11 @@ Hao Su received the Ph.D. degree from the State Key Laboratory of Virtual Realit
 # Publications  
 
 ## 🥇 First Author + Corresponding Author
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">中国舰船研究</div><img src='images/hsby.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1"> 
+<span class="custom-counter"></span>苏昊，董豪, 印薇，贺浩，吕培，谢良，印二威，徐明亮\*. ***<font color=darkblue> 《海上装备群体博弈方法研究综述》 (Group Gaming Approaches for Maritime Equipment: A Survey) </font>***. 中国舰船研究, 2025. 
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR</div><img src='images/CVPR2021_artcoder.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
