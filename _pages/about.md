@@ -46,6 +46,12 @@ Hao Su received the Ph.D. degree from the State Key Laboratory of Virtual Realit
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/3Deformer.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1"> 
+<span class="custom-counter"></span> `Hao Su`, Xuxi Wang, Jianwei Niu\*, Xuefeng Liu, Ji Wan, Nana Wang. ***<font color=darkblue>3DFaceSculptor: A Common Framework for Image-Guided 3D Face Deformation</font>***. IEEE IEEE Transactions on Visualization and Computer Graphics, 2025. [Paper]([https://markdown.com.cn](https://ieeexplore.ieee.org/document/11115024))
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR</div><img src='images/CVPR2021_artcoder.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 <span class="custom-counter"></span>	`Hao Su`, Jianwei Niu\*, Xuefeng Liu, Qingfeng Li, Ji Wan, Mingliang Xu.  ***<font color=darkblue>ArtCoder: An End-to-End Method for Generating Scanning-Robust Stylized QR Codes</font>***. IEEE
@@ -80,11 +86,7 @@ Conference on Computer Vision and Pattern Recognition (CVPR), 2021. (CCF-A)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/3Deformer.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> 
-<span class="custom-counter"></span> `Hao Su`, Jianwei Niu, Xuefeng Liu\*, Ji Wan, Nana Wang. ***<font color=darkblue>3Deformer: A Common Framework for Image-Guided Face Editing</font>***. Arxiv, 2023.
-</div>
-</div>
+
 
 <div class='paper-box-text' markdown="1"> 
 <span class="custom-counter"></span> `Hao Su`, Jianwei Niu\*, Xuefeng Liu, Mohammed Atiquzzaman. ***<font color=darkblue>SafeCoder: A machine-learning-based encoding system to embed safety identification information into QR codes</font>***. Journal of Network and Computer Applications (JNCA), 2024. (CCF-C, CAS SCI District 2, JCR Q1)
@@ -129,6 +131,7 @@ Conference on Computer Vision and Pattern Recognition (CVPR), 2021. (CCF-A)
 <div class='paper-box-text' markdown="1"> 
 <span class="custom-counter"></span> Ji Wan, Kai Hu\*, Jie Li, Yichen Guo, `Hao Su`, Shenzhang Li, Yafei Ye. ***<font color=darkblue>Zebra: A cluster-aware blockchain consensus algorithm</font>***. Journal of Network and Computer Applications (JNCA), 2024. (CCF-C)
 </div>
+
 
 
 
