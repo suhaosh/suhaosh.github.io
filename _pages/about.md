@@ -48,7 +48,7 @@ Hao Su received the Ph.D. degree from the State Key Laboratory of Virtual Realit
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG</div><img src='images/3Deformer.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
-<span class="custom-counter"></span> `Hao Su`, Xuxi Wang, Jianwei Niu\*, Xuefeng Liu, Ji Wan, Nana Wang. ***<font color=darkblue>3DFaceSculptor: A Common Framework for Image-Guided 3D Face Deformation</font>***. IEEE IEEE Transactions on Visualization and Computer Graphics, 2025. <font color=blue>([Paper](https://ieeexplore.ieee.org/document/11115024))</font>
+<span class="custom-counter"></span> `Hao Su`, Xuxi Wang, Jianwei Niu\*, Xuefeng Liu, Ji Wan, Nana Wang. ***<font color=darkblue>3DFaceSculptor: A Common Framework for Image-Guided 3D Face Deformation</font>***. IEEE IEEE Transactions on Visualization and Computer Graphics, 2025. (CCF-A) <font color=blue>([Paper](https://ieeexplore.ieee.org/document/11115024))</font>
 </div>
 </div>
 
@@ -131,6 +131,7 @@ Conference on Computer Vision and Pattern Recognition (CVPR), 2021. (CCF-A)
 <div class='paper-box-text' markdown="1"> 
 <span class="custom-counter"></span> Ji Wan, Kai Hu\*, Jie Li, Yichen Guo, `Hao Su`, Shenzhang Li, Yafei Ye. ***<font color=darkblue>Zebra: A cluster-aware blockchain consensus algorithm</font>***. Journal of Network and Computer Applications (JNCA), 2024. (CCF-C)
 </div>
+
 
 
 
