@@ -42,7 +42,7 @@ Hao Su received the Ph.D. degree from the State Key Laboratory of Virtual Realit
 ## 🥇 First Author + Corresponding Author
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">中国舰船研究</div><img src='images/hsby.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
-<span class="custom-counter"></span>`苏昊`，董豪, 印薇，贺浩，吕培，谢良，印二威，徐明亮\*. ***<font color=darkblue> 《海上装备群体博弈方法研究综述》 (Group Gaming Approaches for Maritime Equipment: A Survey) </font>***. 中国舰船研究, 2025. ()https://www.ship-research.com/cn/article/doi/10.19693/j.issn.1673-3185.04270
+<span class="custom-counter"></span>`苏昊`，董豪, 印薇，贺浩，吕培，谢良，印二威，徐明亮\*. ***<font color=darkblue> 《海上装备群体博弈方法研究综述》 (Group Gaming Approaches for Maritime Equipment: A Survey) </font>***. 中国舰船研究, 2025. [Paper](https://www.ship-research.com/cn/article/doi/10.19693/j.issn.1673-3185.04270))
 </div>
 </div>
 
@@ -131,6 +131,7 @@ Conference on Computer Vision and Pattern Recognition (CVPR), 2021. (CCF-A)
 <div class='paper-box-text' markdown="1"> 
 <span class="custom-counter"></span> Ji Wan, Kai Hu\*, Jie Li, Yichen Guo, `Hao Su`, Shenzhang Li, Yafei Ye. ***<font color=darkblue>Zebra: A cluster-aware blockchain consensus algorithm</font>***. Journal of Network and Computer Applications (JNCA), 2024. (CCF-C)
 </div>
+
 
 
 
