@@ -103,6 +103,7 @@ Conference on Computer Vision and Pattern Recognition (CVPR), 2021. (CCF-A)
 <div class='paper-box-text' markdown="1"> 
 <span class="custom-counter"></span>郭漩, 王宁, 于淑彤, 刘俊楠, `苏昊`, 陈为, 徐明亮. ***<font color=darkblue> 《航空母舰多阶段弹药转运序列可视分析》 (Visual Analysis for Multi-Stage Ammunition Transfer Sequences on Aircraft Carrier) </font>***. 计算机辅助设计与图形学学报, 2025. 
 </div>
+</div>
 
 <div class='paper-box-text' markdown="1"> 
 <span class="custom-counter"></span> Guogang Zhu, Xuefeng Liu, Xinghao Wu, Shaojie Tang, Chao Tang, Jianwei Niu, `Hao Su`. ***<font color=darkblue>Estimating before Debiasing: A Bayesian Approach to Detaching Prior Bias in Federated Semi-Supervised Learning</font>***. International Joint Conferences on Artificial Intelligence (IJCAI), 2024. (CCF-A)
@@ -132,6 +133,7 @@ Conference on Computer Vision and Pattern Recognition (CVPR), 2021. (CCF-A)
 <div class='paper-box-text' markdown="1"> 
 <span class="custom-counter"></span> Ji Wan, Kai Hu\*, Jie Li, Yichen Guo, `Hao Su`, Shenzhang Li, Yafei Ye. ***<font color=darkblue>Zebra: A cluster-aware blockchain consensus algorithm</font>***. Journal of Network and Computer Applications (JNCA), 2024. (CCF-C)
 </div>
+
 
 
 
